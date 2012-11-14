@@ -1,6 +1,4 @@
 *.sublime*
 *.DS_store
-*.blend*
 *.aep
-*.dae
 *.json
