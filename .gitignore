@@ -1,5 +1,4 @@
 *.sublime*
 *.DS_store
 *.aep
-*.json
 lib/json2.js
